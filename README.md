@@ -1,4 +1,4 @@
-## C.elegans-genome-analysis
+### C.elegans-genome-analysis
 # Caenorrhabditis elegans
 genome size: 	100.3 Mb
 structure: linear, 6 chromosomes
